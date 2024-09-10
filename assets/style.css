@@ -5,7 +5,8 @@ html {
 h1 {
 	font-family: "Georgia", Times;
 	text-decoration-line: underline;
-	color: #101e2e;
+	text-decoration: none
+	color: #0e0f17;
 	font-weight: bold;
 	font-variant: small-caps;
 	font-size: 40px;
